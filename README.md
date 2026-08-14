@@ -10,6 +10,14 @@ insights — end to end, without manual analysis.
 - Generates insights and actionable recommendations
 - Automatically sends the full report via Gmail
 
+## Screenshots
+
+### Workflow Architecture
+![n8n Workflow](./workflow-screenshot.png)
+
+### Sample Output
+![Sample Report](./output-example.png)
+
 ## Tech Stack
 - n8n — Workflow & Agent Automation
 - Google Gemini — AI / Chat Model
@@ -29,6 +37,9 @@ insights — end to end, without manual analysis.
 2. Connect your Google Sheets and Gmail credentials
 3. Add your Google Gemini API key
 4. Run the workflow to generate automated business reports
+
+## Demo Video
+Coming soon
 
 ## Author
 Aditya Patidar
