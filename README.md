@@ -15,8 +15,9 @@ insights — end to end, without manual analysis.
 ### Workflow Architecture
 ![n8n Workflow](./workflow-screenshot.png)
 
-### Sample Output
-![Sample Report](./output-example.png)
+## Sample Output
+
+![Sample Output](sample-output.png)
 
 ## Tech Stack
 - n8n — Workflow & Agent Automation
